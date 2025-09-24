@@ -114,11 +114,6 @@ The app features a modern, clean interface with:
 - **Error Handling**: Comprehensive error handling throughout the app
 - **Type Safety**: Strong typing with Dart's type system
 
-### Mock vs Production
-The app supports both mock and production modes:
-- **Mock Mode**: Full functionality without backend (current setup)
-- **Production Mode**: Ready for backend API integration
-
 ### Code Quality
 - Dart analysis with strict linting rules
 - Consistent code formatting
@@ -147,24 +142,4 @@ The app is designed to easily integrate with a backend API:
 - Memory-efficient image handling
 - Fast startup time
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Flutter team for the amazing framework
-- Material Design team for the design system
-- Open source community for the packages used
-
----
-
-**Built with ❤️ using Flutter**
